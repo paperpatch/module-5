@@ -15,7 +15,11 @@ UConn Bootcamp Module 5: Third-Party APIs<br />
 Following UConn Bootcamp's tutorial guide to learn about libraries and frameworks that allow additional funcitonality into web application. Learn how to use two popular APIs: Boostrap and jQuery.<br />
 <br/>
 Built With:
+- HTML
+- CSS
 - JavaScript
+- Bootstrap
+- jQuery
 
 ## DESCRIPTION
 
@@ -46,10 +50,12 @@ Tutorial Lessons:
     - Use an icon library to implement font icons.
     - Override default Bootstrap styles using custom CSS.
 
-Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/module-5
+![Alt text](./assets/images/module-5-screenshot.png "webpage screenshot")
 
 ## ACCESS
 https://paperpatch.github.io/module-5/
+
+Version edits and changes can be found in Github commit changes at https://github.com/paperpatch/module-5
 
 ## CONTRIBUTION
 Made by Patrick Chen
